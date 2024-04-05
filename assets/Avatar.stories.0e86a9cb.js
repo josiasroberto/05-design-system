@@ -1,0 +1,2 @@
+import{A as t}from"./index.0db528c7.js";import"./index.3d8cbcf0.js";import"./iframe.b5fdc33e.js";import"./extends.bd401154.js";import"./index.e0a9a966.js";import"./jsx-runtime.729e9fe5.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/josiasroberto.png",alt:"Josias Roberto"},argTypes:{src:{control:{type:"text"}}}},e={},m={args:{src:void 0}},l=["Primary","WithFallback"];export{e as Primary,m as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.0e86a9cb.js.map
